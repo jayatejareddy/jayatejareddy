@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h1 align="center">Hi 👋, I'm Jaya teja Reddy</h1>
-<h3 align="center">A CSE Student from JNTUACEP India</h3>
+<h3 align="center">A Btech CSE Graduate from JNTUACEP India</h3>
+<h3 align="center">Pursuing Mtech CSE at IIT Guwahati</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayatejareddy&label=Profile%20views&color=green&style=flat" alt="jayatejareddy" /> </p>
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently preparing for GATE 2022
+- 🌱 GATE 2022-AIR 809
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
