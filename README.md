@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### - connect with me ...
 <p align="center">
   
-  <a href="https://in.linkedin.com/in/jaya-teja-reddy-pochimi-reddy-495110185" target="_blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="linkdin" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.linkedin.com/in/jayatejareddy/" target="_blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="linkdin" style="vertical-align:top; margin:4px"></a>
   <a href="" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="email" style="vertical-align:top; margin:4px" ></a> 
   <a href="https://www.instagram.com/jaya_teja_reddy/" target="_blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:4px"></a>
   <a href="https://t.me/JTReddy" target="_blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:4px"></a>
