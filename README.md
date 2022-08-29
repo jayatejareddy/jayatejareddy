@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<h1 align="center">Hi 👋, I'm Jaya teja Reddy</h1>
+<h1 align="center">Hi 👋, I'm Jaya Teja Reddy</h1>
 <h3 align="center">A Btech CSE Graduate from JNTUACEP India</h3>
 <h3 align="center">Pursuing Mtech CSE at IIT Guwahati</h3>
 <br>
